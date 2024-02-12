@@ -14,5 +14,7 @@
 
 ## User Stories
 - **As a user, I want to securely log in to access personalized features, ensuring my information is protected.**
-- **As a visitor, I want to navigate the web app comfortably from my phone or tablet, experiencing the same quality as on desktop.**
+- **As a visitor, I want to navigate the web app comfortably from my phone or tablet, experiencing the same quality as on a desktop.**
 - **As a user, I want to interact with real-time updates on the website without needing to reload pages, for a seamless experience.**
+  
+[← Back to README](./README.md)
