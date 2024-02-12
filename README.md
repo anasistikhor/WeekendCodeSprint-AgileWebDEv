@@ -6,6 +6,11 @@ The objective of the "WeekendCodeSprint-AgileWebDev" project is to simulate a ra
 - **Agile Methodology Application:** Employ Agile practices including sprint planning, daily stand-ups (simulated), and sprint reviews to manage the project. This approach will highlight the adaptability and efficiency of Agile in a condensed project timeline.
 - **Collaborative Efforts:** Utilize GitHub for all aspects of project management, including task allocation, progress tracking, and collaboration. This will also involve using pull requests for code reviews and merging, issues for task management, and projects for sprint boards.
 - **Documentation and Reflection:** Maintain comprehensive documentation of the development process, decisions made, challenges encountered, and resolutions implemented. A final reflection will summarize the project outcomes, lessons learned, and potential areas for future development.
+## Project Documentation
+- [Project Charter](./ProjectCharter.md) outlines the project's goals, scope, and key stakeholders.
+- [Initial Backlog](./InitialBacklog.md) details the project's features, tasks, and user stories.
+- [Sprint Planning](./SprintPlanning.md) describes the objectives, tasks, and timelines for the current sprint.
+
 ## Agile Management with GitHub
 Adopt Agile methodologies, utilizing GitHub's robust features to streamline our project management process:
 - [**Issues**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/issues) for detailed task tracking, ensuring transparency and effective communication among team members.
