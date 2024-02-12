@@ -8,9 +8,9 @@ The objective of the "WeekendCodeSprint-AgileWebDev" project is to simulate a ra
 - **Documentation and Reflection:** Maintain comprehensive documentation of the development process, decisions made, challenges encountered, and resolutions implemented. A final reflection will summarize the project outcomes, lessons learned, and potential areas for future development.
 ## Agile Management with GitHub
 Adopt Agile methodologies, utilizing GitHub's robust features to streamline our project management process:
-- **Issues** for detailed task tracking, ensuring transparency and effective communication among team members.
-- **Projects** to create sprint boards, visually organizing tasks into columns like "To Do", "In Progress", and "Done" for each sprint cycle.
-- **Milestones** to set timelines and track progress towards sprint goals, aligning our efforts with project deadlines.
+- [**Issues**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/issues) for detailed task tracking, ensuring transparency and effective communication among team members.
+- [**Projects**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/projects) to create sprint boards, visually organizing tasks into columns like "To Do", "In Progress", and "Done" for each sprint cycle.
+- [**Milestones**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/milestones) to set timelines and track progress towards sprint goals, aligning our efforts with project deadlines.
 ## Tasks and Features
 The project is structured around key tasks and features, including:
 - **Environment Setup:** Establishing a Flask development environment to kickstart our project.
