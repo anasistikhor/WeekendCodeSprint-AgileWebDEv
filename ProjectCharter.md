@@ -35,7 +35,7 @@ This project will deliver a functional web application prototype with a focus on
 ## Key Stakeholders
 - **Project Manager (Lead)**: Anas
 - **Development Team**: Volunteer contributors with expertise in web development
-- **Stakeholders**: Simulated stakeholders for the purpose of feedback and review
+- **Stakeholders**: Simulated stakeholders for feedback and review
 
 ## Approval
 This project charter has been prepared to guide the WeekendCodeSprint-AgileWebDev project. Approval from the project lead (Anas) is required to commence the project. Any significant changes to the project scope or objectives will be documented and require re-approval.
@@ -43,3 +43,5 @@ This project charter has been prepared to guide the WeekendCodeSprint-AgileWebDe
 _Project Lead Signature_: _____________________
 
 _Date_: __________________
+
+[← Back to README](./README.md)
