@@ -9,7 +9,7 @@ The objective of the "WeekendCodeSprint-AgileWebDev" project is to simulate a ra
 ## Agile Management with GitHub
 Adopt Agile methodologies, utilizing GitHub's robust features to streamline our project management process:
 - [**Issues**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/issues) for detailed task tracking, ensuring transparency and effective communication among team members.
-- [**Projects**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/projects) to create sprint boards, visually organizing tasks into columns like "To Do", "In Progress", and "Done" for each sprint cycle.
+- [**Projects**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/projects/2) to create sprint boards, visually organizing tasks into columns like "To Do", "In Progress", and "Done" for each sprint cycle.
 - [**Milestones**](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDev/milestones) to set timelines and track progress towards sprint goals, aligning our efforts with project deadlines.
 ## Tasks and Features
 The project is structured around key tasks and features, including:
@@ -21,3 +21,5 @@ The project is structured around key tasks and features, including:
 Each task is carefully planned and executed to align with Agile sprint goals, ensuring a structured yet flexible development process.
   
 The project will not cover in-depth backend development, focusing instead on frontend functionalities and the application of Agile methodologies to manage the development process effectively.
+
+
